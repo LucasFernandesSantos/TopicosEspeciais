@@ -1,4 +1,4 @@
-package br.edu.up.entity;
+package br.edu.up.catalogo.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
